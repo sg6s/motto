@@ -1,2 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://Meekdai.github.io/Gmeek-template</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Meekdai.github.io/Gmeek-template</link></image><lastBuildDate>Thu, 14 Mar 2024 09:17:29 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>请接着之后的安装步骤执行</title><link>https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</link><description>如果你点击了`READM.md`的链接后，看到了这个页面，请继续之后的安装步骤执行。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</guid><pubDate>Thu, 14 Mar 2024 09:15:10 +0000</pubDate></item><item><title>这是Gmeek模板仓库</title><link>https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</link><description>通过这个模板创建库，可以大大减少部署Gmeek博客的配置步骤。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</guid><pubDate>Wed, 20 Dec 2023 07:42:24 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://sg6s.github.io/motto</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://sg6s.github.io/motto</link></image><lastBuildDate>Sun, 19 Oct 2025 08:24:23 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>💧 流水不争先，争的是滔滔不绝</title><link>https://sg6s.github.io/motto/post/%F0%9F%92%A7%20-liu-shui-bu-zheng-xian-%EF%BC%8C-zheng-de-shi-tao-tao-bu-jue.html</link><description>![山间溪流](https://images.pexels.com/photos/9758/nature-brook-creek-stream.jpg)
+*清澈溪流穿越山涧 - 持续的力量*
+
+#### 📚 核心要义：长期主义
+&gt; **不是速度的竞赛，而是耐力的马拉松**
+
+#### 🎯 深度解读
+不争一时之快
+
+拒绝短期诱惑
+
+放弃即时满足
+
+专注持久价值
+
+建立持续系统
+✅ 每日微习惯
+✅ 周期性复盘
+✅ 渐进式改进
+
+#### 🛠️ 实践指南
+| 时间维度 | 具体行动 | 预期收获 |
+|---------|----------|----------|
+| 每日 | 坚持1小时深度工作 | 积累专业优势 |
+| 每月 | 学习一项新技能 | 拓展能力边界 |
+| 每年 | 完成一个长期项目 | 构建核心竞争力 |
+
+#### 🌈 今日思考
+&gt; “如何将‘滔滔不绝’的理念应用到当前的工作中？”。</description><guid isPermaLink="true">https://sg6s.github.io/motto/post/%F0%9F%92%A7%20-liu-shui-bu-zheng-xian-%EF%BC%8C-zheng-de-shi-tao-tao-bu-jue.html</guid><pubDate>Sun, 19 Oct 2025 08:23:50 +0000</pubDate></item></channel></rss>
