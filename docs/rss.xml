@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://sg6s.github.io/motto</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://sg6s.github.io/motto</link></image><lastBuildDate>Sun, 19 Oct 2025 08:47:53 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>🪞 君子求诸己，小人求诸人</title><link>https://sg6s.github.io/motto/post/%F0%9F%AA%9E%20-jun-zi-qiu-zhu-ji-%EF%BC%8C-xiao-ren-qiu-zhu-ren.html</link><description>![镜中自观](https://images.pexels.com/photos/774866/pexels-photo-774866.jpeg)
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://sg6s.github.io/motto</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://sg6s.github.io/motto</link></image><lastBuildDate>Sun, 19 Oct 2025 08:48:42 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>🪞 君子求诸己，小人求诸人</title><link>https://sg6s.github.io/motto/post/%F0%9F%AA%9E%20-jun-zi-qiu-zhu-ji-%EF%BC%8C-xiao-ren-qiu-zhu-ren.html</link><description>![镜中自观](https://images.pexels.com/photos/774866/pexels-photo-774866.jpeg)
 镜中自观 - 内在的力量
 
 📚 核心要义：自我负责
@@ -43,45 +43,47 @@ text
 *双手捧起树苗 - 行动的开始*
 
 #### 📚 核心要义：立即行动
-&gt; **每一个‘现在’都是新的‘十年前’**
+&gt; **每一个'现在'都是新的'十年前'**
 
 #### 🎯 深度解读
-```mermaid
-graph LR
-    A[想做的事] --&gt; B{立即开始}
-    B --&gt; C[今天行动]
-    B --&gt; D[等待明天]
-    C --&gt; E[取得进展]
-    D --&gt; F[永远拖延]
-🛠️ 实践指南
-立即启动三步法：
+**拖延的心理根源：**
+1. **完美主义** - 等待完美时机
+2. **恐惧心理** - 害怕失败或批评
+3. **决策瘫痪** - 选择太多无从下手
+4. **动力不足** - 缺乏足够的动机
 
-🚀 破除心理障碍
+**立即行动的三大好处：**
+- 🚀 建立行动动量
+- 💡 获得即时反馈
+- 📈 积累先发优势
 
-接受不完美
+#### 🛠️ 实践指南
+**打破拖延的五步法：**
 
-降低启动门槛
+**步骤一：降低启动门槛**
+- 把大任务拆解为小步骤
+- 从最简单的部分开始
+- 设定5分钟启动计时
 
-设定最小目标
+**步骤二：创造行动环境**
+- 清理工作空间
+- 准备必要工具
+- 消除干扰因素
 
-🔥 建立行动动量
+**步骤三：设定明确目标**
+- 具体要做什么
+- 完成标准是什么
+- 时间限制多久
 
-5分钟起步法则
+**今日行动清单：**
+- [ ] 选择一个拖延已久的任务
+- [ ] 拆解为最小可执行步骤
+- [ ] 立即开始第一个步骤
 
-创造物理环境
+#### 🌈 今日思考
+&gt; '如果现在开始行动，一年后的我会感谢今天的什么决定？'
 
-获取即时反馈
-
-📈 持续优化迭代
-
-每日微调
-
-每周复盘
-
-每月升级
-
-🌈 今日思考
-“哪个拖延已久的计划，今天可以开始第一步？”。</description><guid isPermaLink="true">https://sg6s.github.io/motto/post/%F0%9F%8C%B3%20-zhong-shu-zui-hao-de-shi-jian-shi-shi-nian-qian-%EF%BC%8C-qi-ci-shi-xian-zai.html</guid><pubDate>Sun, 19 Oct 2025 08:26:37 +0000</pubDate></item><item><title>💧 流水不争先，争的是滔滔不绝</title><link>https://sg6s.github.io/motto/post/%F0%9F%92%A7%20-liu-shui-bu-zheng-xian-%EF%BC%8C-zheng-de-shi-tao-tao-bu-jue.html</link><description>![山间溪流](https://images.pexels.com/photos/9758/nature-brook-creek-stream.jpg)
+---。</description><guid isPermaLink="true">https://sg6s.github.io/motto/post/%F0%9F%8C%B3%20-zhong-shu-zui-hao-de-shi-jian-shi-shi-nian-qian-%EF%BC%8C-qi-ci-shi-xian-zai.html</guid><pubDate>Sun, 19 Oct 2025 08:26:37 +0000</pubDate></item><item><title>💧 流水不争先，争的是滔滔不绝</title><link>https://sg6s.github.io/motto/post/%F0%9F%92%A7%20-liu-shui-bu-zheng-xian-%EF%BC%8C-zheng-de-shi-tao-tao-bu-jue.html</link><description>![山间溪流](https://images.pexels.com/photos/9758/nature-brook-creek-stream.jpg)
 *清澈溪流穿越山涧 - 持续的力量*
 
 #### 📚 核心要义：长期主义
