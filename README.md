@@ -1,7 +1,7 @@
 # 座右铭选集 :
 ## 访问地址
-https://sg6s.github.io/motto 
-https://dota.qzz.io/
+- https://sg6s.github.io/motto 
+- https://dota.qzz.io/
 
 ## 🌟 网站简介
 
@@ -50,3 +50,4 @@ https://dota.qzz.io/
 🛠️ 实践指南 - 具体行动步骤
 
 🌈 今日思考 - 启发式问题
+
